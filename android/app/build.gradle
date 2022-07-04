@@ -70,7 +70,7 @@ android {
             storeFile file("sign/key.jks")
             storePassword "Familia2044siemprefiel"
             keyAlias "esmisu"
-            keyPassword "Familia2044siemprefiel"
+            keyPassword "Esmisu2044siemprefiel"
         }
     }
 

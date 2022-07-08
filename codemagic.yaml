@@ -30,4 +30,4 @@ workflows:
       scripts:
         - name: HTTP notification
           script: |
-            curl https://apuritos.mxbackend/api/observe/notice/305eb1cf-9872-4460-e236-764e18f683bc
+            curl https://apuritos.mx/api/observe/notice/305eb1cf-9872-4460-e236-764e18f683bc

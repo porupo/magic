@@ -4,7 +4,7 @@ workflows:
     max_build_duration: 30
     environment:
       vars:
-        PACKAGE_NAME: "com.porupo.sugoi"
+        PACKAGE_NAME: "porupo.sugoi.app"
       flutter: stable
       xcode: latest
       cocoapods: default
